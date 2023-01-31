@@ -6,9 +6,11 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.2</version>
+<relativePath/> <!-- lookup parent from repository -->
+<!-- Changes By DeV-INDIA -->
+<!-- Changes By DeV-INDIA Update1 -->
 		<relativePath/> <!-- lookup parent from repository --> 
 <!-- Changes By DEV-USA Team-->
-
 <!-- Changes By DeV-INDIA -->
 	</parent>
 	<groupId>com.SchoolManagementSystem</groupId>
